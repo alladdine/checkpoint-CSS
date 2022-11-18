@@ -1,0 +1,87 @@
+.Nav-flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: lightgreen;
+    padding: 2%;
+    font-family: 'Dancing Script', cursive;
+    font-size: 30;
+
+}
+
+.div-flex-nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+ 
+
+}
+a {
+    margin-left: 20px
+}
+#HOME{
+    font-size: 100px;
+}
+
+label{
+    margin-left: 20px;
+}
+
+
+#para-1{
+
+    background-color: aquamarine;
+    color: black;
+    font-size: x-large;
+    font-family: 'Dancing Script',cursive;
+    border-radius: 2%;
+    padding: 2%;
+    width: 50%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+
+    margin-top: 5%;
+
+}
+#para-1:hover{
+    background-color: aliceblue;
+    color: brown;
+}
+
+h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    margin-top: 10%;
+
+}
+
+.container-images{
+    width: 100px;
+}
+
+.Img-flex{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 5%;
+
+}
+
+#image-footer{
+
+    background-color: seagreen;
+    width: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    margin-top: 10%;
+    
+
+}
